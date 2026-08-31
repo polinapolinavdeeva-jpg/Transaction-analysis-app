@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / compressed files
+__pycache__/
+*.py[cod]
+*.fasl
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Documentation
+docs/_build/
+
+# Editors and IDEs
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+env/
+/bin/
+/include/
+/lib/
+/lib64/
+.env
+
+# Test and coverage
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+# htmlcov/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Package manifests and installers
+*.egg
+*.egg-info
+dist/
+build/
