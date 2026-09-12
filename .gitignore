@@ -45,3 +45,5 @@ pip-delete-this-directory.txt
 *.egg-info
 dist/
 build/
+# Generated reports
+report.json
